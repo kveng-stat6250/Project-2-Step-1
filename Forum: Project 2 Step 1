@@ -1,1 +1,65 @@
+[Team Number] team-02
 
+--
+
+[Dataset 1 Name] Marcoeconomics
+
+[Dataset Description] 
+
+[Experimental Unit Description] Marcoeconomics data from 2010-2016
+
+[Number of Observations] 2484
+                    
+[Number of Features] 100
+
+[Data Source] https://www.kaggle.com/c/sberbank-russian-housing-market/download/macro.csv.zip
+
+[Data Dictionary] https://www.kaggle.com/c/sberbank-russian-housing-market/download/data_dictionary.txt
+
+[Unique ID Schema] The columns "timestamp"
+
+--
+
+[Dataset 2 Name] Test Housing Data
+
+[Dataset Description] 
+
+[Experimental Unit Description] 
+
+[Number of Observations] 1
+                    
+[Number of Features] 
+
+[Data Source] https://www.kaggle.com/c/sberbank-russian-housing-market/download/test.csv.zip
+
+[Data Dictionary] https://www.kaggle.com/c/sberbank-russian-housing-market/download/data_dictionary.txt
+
+[Unique ID Schema] 
+
+--
+
+[Dataset 3 Name] Train Housing Data
+
+[Dataset Description] 
+
+[Experimental 
+
+[Number of Observations] 
+                    
+[Number of Features] 
+
+[Data Source] https://www.kaggle.com/c/sberbank-russian-housing-market/download/train.csv.zip
+
+[Data Dictionary] https://www.kaggle.com/c/sberbank-russian-housing-market/download/data_dictionary.txt
+
+[Unique ID Schema] 
+
+--
+
+[Research Question 1]
+
+[Research Question 2] 
+
+[Research Question 3] 
+
+[Reason for Choice] 
