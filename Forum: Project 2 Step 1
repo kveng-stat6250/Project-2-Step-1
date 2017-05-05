@@ -24,17 +24,17 @@
 
 [Dataset Description] 
 
-[Experimental Unit Description] 
+[Experimental Unit Description] Test data from Sberbank Russian Housing Market
 
-[Number of Observations] 1
+[Number of Observations] 7662
                     
-[Number of Features] 
+[Number of Features] 291
 
 [Data Source] https://www.kaggle.com/c/sberbank-russian-housing-market/download/test.csv.zip
 
 [Data Dictionary] https://www.kaggle.com/c/sberbank-russian-housing-market/download/data_dictionary.txt
 
-[Unique ID Schema] 
+[Unique ID Schema] The columns "timestamp"
 
 --
 
@@ -42,17 +42,17 @@
 
 [Dataset Description] 
 
-[Experimental 
+[Experimental Unit Description] Train data from Sberbank Russian Housing Market
 
-[Number of Observations] 
+[Number of Observations] 30471
                     
-[Number of Features] 
+[Number of Features] 292
 
 [Data Source] https://www.kaggle.com/c/sberbank-russian-housing-market/download/train.csv.zip
 
 [Data Dictionary] https://www.kaggle.com/c/sberbank-russian-housing-market/download/data_dictionary.txt
 
-[Unique ID Schema] 
+[Unique ID Schema] The columns "timestamp"
 
 --
 
