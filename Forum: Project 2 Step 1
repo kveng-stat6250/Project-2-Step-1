@@ -4,7 +4,7 @@
 
 [Dataset 1 Name] Marcoeconomics
 
-[Dataset Description] 
+[Dataset Description] data on Russia's macroeconomy and financial sector 
 
 [Experimental Unit Description] Marcoeconomics data from 2010-2016
 
@@ -22,7 +22,7 @@
 
 [Dataset 2 Name] Test Housing Data
 
-[Dataset Description] 
+[Dataset Description] this dataset includes information about individual transactions. The rows are indexed by the "id" field, which refers to individual transactions. These files also include supplementary information about the local area of each property. (from July 2015 to May 2016)
 
 [Experimental Unit Description] Test data from Sberbank Russian Housing Market
 
@@ -40,7 +40,7 @@
 
 [Dataset 3 Name] Train Housing Data
 
-[Dataset Description] 
+[Dataset Description] this dataset includes information about individual transactions. The rows are indexed by the "id" field, which refers to individual transactions. These files also include supplementary information about the local area of each property. (from August 2011 to June 2015)
 
 [Experimental Unit Description] Train data from Sberbank Russian Housing Market
 
@@ -68,4 +68,19 @@
 (Rational: This should help the investors understand the housing price in different areas of the market.)
 [Note: This would involve making either a frequency chart or table to show the housing price in different areas.
 
+[Research Question 1] What are the top five districts that experienced the biggest increase in “Average House Price per square meter" between AY2014-15 and AY2015-16?
+(Rationale: This should help identify districts to consider for investment having high percentage increase in Average House Price per meter to gain more profit.)
+ [Note: This compares and combine the columns “price_doc” and “full_sq” from Test Housing Data to the column of the same name from Train Housing Data.]
+
+[Research Question 2]
+Can increase in Employment rate will be used to predict the “Average House Price per square meter”?
+(Rationale: This would help inform the investors whether change in employment rate has any effect on Average House Price per square meter)
+[Note: This required the columns “employment” from Macroeconomics Data and “price_doc” and “full_sq” from Test Housing Data and Train Housing Data.]
 [Reason for Choice] 
+
+[Research Question 3] 
+Can increase in Average monthly salary will be used to predict the “Average House Price per square meter”?
+(Rationale: This would help inform the investors whether increase in Average monthly salary has any effect on Average House Price per square meter)
+[Note: This required the columns “salary” from Macroeconomics Data and “price_doc” and “full_sq” from Test Housing Data and Train Housing Data.]
+
+[Reason for Choice] Housing costs demand a significant investment from both consumers and developers. As a data analyst our target is find the factors that are enough to make pricing predictions.
