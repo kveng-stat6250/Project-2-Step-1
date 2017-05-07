@@ -87,4 +87,5 @@ Can increase in Average monthly salary will be used to predict the “Average Ho
 (Rationale: This would help inform the investors whether increase in Average monthly salary has any effect on Average House Price per square meter)
 [Note: This required the columns “salary” from Macroeconomics Data and “price_doc” and “full_sq” from Test Housing Data and Train Housing Data.]
 
-[Reason for Choice] Housing costs demand a significant investment from both consumers and developers. As a data analyst our target is find the factors that are enough to make pricing predictions.
+[Reason for Choice] Housing costs demand a significant investment from both consumers and developers. 
+As a data analyst our target is find the factors that are enough to make pricing predictions.
