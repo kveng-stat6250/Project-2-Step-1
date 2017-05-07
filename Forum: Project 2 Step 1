@@ -57,11 +57,15 @@
 --
 
 [Research Question 1] Has the price of the house kept increasing or decreasing from 2010 to 2016 and at what rate? 
-(Rational: This should help the investor to see how the housing market behave from 2010 to 2016.) 
+(Rational: This should help the investors to see how the housing market behave from 2010 to 2016.) 
 [Note: This would involve taking the average of housing price quarterly or yearly.
 
-[Research Question 2] 
+[Research Question 2] What is the relationship between housing price and GDP?  
+(Rational: This should help the investors understand the picture and the relaionship between GDP and housing price.)
+[Note: This would involve merging two data sets one from macroeconomics data set and housing data set then we can make a table or a graph to see the relationship.]
 
-[Research Question 3] 
+[Research Question 3] What is the difference in housing price between the houses near metro area and the one further from the metro area?
+(Rational: This should help the investors understand the housing price in different areas of the market.)
+[Note: This would involve making either a frequency chart or table to show the housing price in different areas.
 
 [Reason for Choice] 
