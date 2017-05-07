@@ -87,5 +87,14 @@ Can increase in Average monthly salary will be used to predict the “Average Ho
 (Rationale: This would help inform the investors whether increase in Average monthly salary has any effect on Average House Price per square meter)
 [Note: This required the columns “salary” from Macroeconomics Data and “price_doc” and “full_sq” from Test Housing Data and Train Housing Data.]
 
+[Research Question 1] what is the average price for each ecology level?
+Rational: this will help to determine the average price based on ecology conditions
+
+[Research Question 2] what is the average price for owner-occupier purchase per year?
+Rational: to show the mean price per year for owner-occupier purchase properties
+
+[Research Question 3] does the number of cafe within 500m of the property correlated with the property’s price? 
+Rational: to see if there is a correlation between the price and the number of café in the area
+
 [Reason for Choice] Housing costs demand a significant investment from both consumers and developers. 
 As a data analyst our target is to find the factors that can make pricing predictions.
