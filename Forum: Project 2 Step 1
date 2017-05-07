@@ -22,7 +22,9 @@
 
 [Dataset 2 Name] Test Housing Data
 
-[Dataset Description] this dataset includes information about individual transactions. The rows are indexed by the "id" field, which refers to individual transactions. These files also include supplementary information about the local area of each property. (from July 2015 to May 2016)
+[Dataset Description] this dataset includes information about individual transactions. 
+The rows are indexed by the "id" field, which refers to individual transactions. 
+These files also include supplementary information about the local area of each property. (from July 2015 to May 2016)
 
 [Experimental Unit Description] Test data from Sberbank Russian Housing Market
 
@@ -40,7 +42,9 @@
 
 [Dataset 3 Name] Train Housing Data
 
-[Dataset Description] this dataset includes information about individual transactions. The rows are indexed by the "id" field, which refers to individual transactions. These files also include supplementary information about the local area of each property. (from August 2011 to June 2015)
+[Dataset Description] this dataset includes information about individual transactions. 
+The rows are indexed by the "id" field, which refers to individual transactions. 
+These files also include supplementary information about the local area of each property. (from August 2011 to June 2015)
 
 [Experimental Unit Description] Train data from Sberbank Russian Housing Market
 
